@@ -1,0 +1,20 @@
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\bin\Debug\Horror Quiz.exe.config
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\bin\Debug\Horror Quiz.exe.manifest
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\bin\Debug\Horror Quiz.application
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\bin\Debug\Horror Quiz.exe
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\bin\Debug\Horror Quiz.pdb
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror Quiz.csproj.AssemblyReference.cache
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror_Quiz.Form7.resources
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror_Quiz.Form1.resources
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror_Quiz.Form6.resources
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror_Quiz.Form5.resources
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror_Quiz.Form4.resources
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror_Quiz.Form3.resources
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror_Quiz.Form2.resources
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror_Quiz.Properties.Resources.resources
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror Quiz.csproj.GenerateResource.cache
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror Quiz.csproj.CoreCompileInputs.cache
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror Quiz.exe.manifest
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror Quiz.application
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror Quiz.exe
+C:\Users\sband\Desktop\School\Spring 2022\ENGL 2020\Final ENGL 2020\Final ENGL 2020\obj\Debug\Horror Quiz.pdb
