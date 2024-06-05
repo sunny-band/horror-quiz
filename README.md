@@ -4,7 +4,7 @@ This was mostly done using C#, the GUI, and Windows Forms. If given the incorrec
 
 
 # How to Run
-1. Use the green "Code button" above and download as ZIP file.
+1. Use the green "Code" button above and download as ZIP file.
 2. Extract, and navigate to bin/Debug folder. Locate and run Horror Quiz.exe.
 3. Alternatively if using Visual Studio, run Horror Quiz.sln found in the root folder.
 
